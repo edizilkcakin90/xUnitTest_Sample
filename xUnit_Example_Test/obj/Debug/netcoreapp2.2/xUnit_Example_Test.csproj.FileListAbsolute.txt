@@ -1,0 +1,17 @@
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\obj\Debug\netcoreapp2.2\xUnit_Example_Test.csproj.CoreCompileInputs.cache
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\obj\Debug\netcoreapp2.2\xUnit_Example_Test.AssemblyInfoInputs.cache
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\obj\Debug\netcoreapp2.2\xUnit_Example_Test.AssemblyInfo.cs
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\obj\Debug\netcoreapp2.2\xUnit_Example_Test.csprojAssemblyReference.cache
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\bin\Debug\netcoreapp2.2\xUnit_Example_Test.deps.json
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\bin\Debug\netcoreapp2.2\xUnit_Example_Test.runtimeconfig.json
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\bin\Debug\netcoreapp2.2\xUnit_Example_Test.runtimeconfig.dev.json
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\bin\Debug\netcoreapp2.2\xUnit_Example_Test.dll
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\bin\Debug\netcoreapp2.2\xUnit_Example_Test.pdb
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\bin\Debug\netcoreapp2.2\xUnitExample.dll
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\bin\Debug\netcoreapp2.2\xUnitExample.pdb
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\obj\Debug\netcoreapp2.2\xUnit_Example_Test.csproj.CopyComplete
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\obj\Debug\netcoreapp2.2\xUnit_Example_Test.dll
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnit_Example_Test\obj\Debug\netcoreapp2.2\xUnit_Example_Test.pdb

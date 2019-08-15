@@ -1,0 +1,8 @@
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnitExample\bin\Debug\netstandard2.0\xUnitExample.deps.json
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnitExample\bin\Debug\netstandard2.0\xUnitExample.dll
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnitExample\bin\Debug\netstandard2.0\xUnitExample.pdb
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnitExample\obj\Debug\netstandard2.0\xUnitExample.csproj.CoreCompileInputs.cache
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnitExample\obj\Debug\netstandard2.0\xUnitExample.AssemblyInfoInputs.cache
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnitExample\obj\Debug\netstandard2.0\xUnitExample.AssemblyInfo.cs
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnitExample\obj\Debug\netstandard2.0\xUnitExample.dll
+C:\Users\MyOfis12\source\repos\xUnit_Example\xUnitExample\obj\Debug\netstandard2.0\xUnitExample.pdb
